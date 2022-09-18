@@ -1,2 +1,2 @@
 # Tech-A-Thon
-A problem statement given in 
+A problem statement of Tech-a-Thon
